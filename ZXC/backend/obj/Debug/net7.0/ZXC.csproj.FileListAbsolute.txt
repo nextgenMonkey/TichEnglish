@@ -1,0 +1,38 @@
+D:\IT рабство\Новая папка\ZXC\bin\Debug\net7.0\ZXC.exe
+D:\IT рабство\Новая папка\ZXC\bin\Debug\net7.0\ZXC.deps.json
+D:\IT рабство\Новая папка\ZXC\bin\Debug\net7.0\ZXC.runtimeconfig.json
+D:\IT рабство\Новая папка\ZXC\bin\Debug\net7.0\ZXC.dll
+D:\IT рабство\Новая папка\ZXC\bin\Debug\net7.0\ZXC.pdb
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\ZXC.csproj.AssemblyReference.cache
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\ZXC.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\ZXC.AssemblyInfoInputs.cache
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\ZXC.AssemblyInfo.cs
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\ZXC.csproj.CoreCompileInputs.cache
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\ZXC.dll
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\refint\ZXC.dll
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\ZXC.pdb
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\ZXC.genruntimeconfig.cache
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\ref\ZXC.dll
+D:\IT рабство\Новая папка\ZXC\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\IT рабство\Новая папка\ZXC\bin\Debug\net7.0\Telegram.Bot.dll
+D:\IT рабство\Новая папка\ZXC\bin\Debug\net7.0\Telegram.Bot.Extensions.Polling.dll
+D:\IT рабство\Новая папка\ZXC\obj\Debug\net7.0\ZXC.csproj.CopyComplete
+D:\IT slavery\ZXC\backend\bin\Debug\net7.0\ZXC.exe
+D:\IT slavery\ZXC\backend\bin\Debug\net7.0\ZXC.deps.json
+D:\IT slavery\ZXC\backend\bin\Debug\net7.0\ZXC.runtimeconfig.json
+D:\IT slavery\ZXC\backend\bin\Debug\net7.0\ZXC.dll
+D:\IT slavery\ZXC\backend\bin\Debug\net7.0\ZXC.pdb
+D:\IT slavery\ZXC\backend\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\IT slavery\ZXC\backend\bin\Debug\net7.0\Telegram.Bot.dll
+D:\IT slavery\ZXC\backend\bin\Debug\net7.0\Telegram.Bot.Extensions.Polling.dll
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\ZXC.csproj.AssemblyReference.cache
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\ZXC.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\ZXC.AssemblyInfoInputs.cache
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\ZXC.AssemblyInfo.cs
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\ZXC.csproj.CoreCompileInputs.cache
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\ZXC.csproj.CopyComplete
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\ZXC.dll
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\refint\ZXC.dll
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\ZXC.pdb
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\ZXC.genruntimeconfig.cache
+D:\IT slavery\ZXC\backend\obj\Debug\net7.0\ref\ZXC.dll
