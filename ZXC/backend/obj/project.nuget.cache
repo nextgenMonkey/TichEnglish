@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s+8WifahZEqXECnY3FrHUSu4KIKZ7Mf+XPUeVcW/8+emcnwReJ1Jyu1ZNDkmtLWp9i45mmJRu2gXG4zmDg7fUQ==",
+  "success": true,
+  "projectFilePath": "D:\\IT slavery\\ZXC\\backend\\ZXC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kostya berdnikov\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\kostya berdnikov\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\kostya berdnikov\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\kostya berdnikov\\.nuget\\packages\\telegram.bot.extensions.polling\\2.0.0-alpha.1\\telegram.bot.extensions.polling.2.0.0-alpha.1.nupkg.sha512"
+  ],
+  "logs": []
+}
